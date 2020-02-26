@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36441aea-bf86-4b67-9788-434a03644b9d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y9tscFvefUKh4yeOidiPZC9ajq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled4" />
+  </component>
+  <component name="RunManager" selected="Application.Cwiczenie1723Test">
+    <configuration name="Cwiczenie1713Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cwiczenie1713Test" />
+      <module name="Cwiczenia17.12" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cwiczenie1714" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cwiczenie1714" />
+      <module name="Cwiczenia17.12" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cwiczenie1716" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cwiczenie1716" />
+      <module name="Cwiczenia17.12" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cwiczenie1723Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cwiczenie1723Test" />
+      <module name="Cwiczenia17.12" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InvoiceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InvoiceTest" />
+      <module name="Cwiczenia17.12" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Cwiczenie1723Test" />
+        <item itemvalue="Application.InvoiceTest" />
+        <item itemvalue="Application.Cwiczenie1716" />
+        <item itemvalue="Application.Cwiczenie1714" />
+        <item itemvalue="Application.Cwiczenie1713Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36441aea-bf86-4b67-9788-434a03644b9d" name="Default Changelist" comment="" />
+      <created>1582366845412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582366845412</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="24" width="800" height="672" key="#Inspections" timestamp="1582397869046">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="278" y="24" width="800" height="672" key="#Inspections/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1582397869046" />
+    <state x="491" y="82" width="478" height="557" key="#com.intellij.ide.util.MemberChooser" timestamp="1582537004865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="491" y="82" width="478" height="557" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1582537004865" />
+    <state x="466" y="121" width="424" height="479" key="FileChooserDialogImpl" timestamp="1582723741004">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="466" y="121" width="424" height="479" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1582723741004" />
+    <state width="1324" height="173" key="GridCell.Tab.0.bottom" timestamp="1582538017619">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1324" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1582538017619" />
+    <state width="1324" height="173" key="GridCell.Tab.0.center" timestamp="1582538017619">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1324" height="173" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1582538017619" />
+    <state width="1324" height="173" key="GridCell.Tab.0.left" timestamp="1582538017619">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1324" height="173" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1582538017619" />
+    <state width="1324" height="173" key="GridCell.Tab.0.right" timestamp="1582538017619">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1324" height="173" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1582538017619" />
+    <state x="366" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1582524912365">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="366" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1582524912365" />
+    <state x="99" y="0" width="1157" height="723" key="new project wizard" timestamp="1582649322284">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="99" y="0" width="1157" height="723" key="new project wizard/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1582649322284" />
+  </component>
+</project>

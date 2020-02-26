@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d4f9af8-5c02-457a-aeef-16ec2ed55b23" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArraysAndStreams2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraysAndStreams2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XTVegI59mZXdJ2C4sOWaRMZyKz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lambdy i strumienie c. d." />
+  </component>
+  <component name="RunManager" selected="Application.ArraysAndStreams2">
+    <configuration name="ArraysAndStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStreams" />
+      <module name="Lambdy i strumienie" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysAndStreams2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStreams2" />
+      <module name="Lambdy i strumienie" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntStreamOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntStreamOperations" />
+      <module name="Lambdy i strumienie" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Predykat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Predykat" />
+      <module name="Lambdy i strumienie" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomIntegers" />
+      <module name="Lambdy i strumienie" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArraysAndStreams2" />
+        <item itemvalue="Application.ArraysAndStreams" />
+        <item itemvalue="Application.IntStreamOperations" />
+        <item itemvalue="Application.RandomIntegers" />
+        <item itemvalue="Application.Predykat" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d4f9af8-5c02-457a-aeef-16ec2ed55b23" name="Default Changelist" comment="" />
+      <created>1581070167229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581070167229</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="120" width="424" height="479" key="FileChooserDialogImpl" timestamp="1582723515663">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="461" y="120" width="424" height="479" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1582723515663" />
+    <state width="1314" height="171" key="GridCell.Tab.0.bottom" timestamp="1581172019240">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1314" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1581172019240" />
+    <state width="1314" height="171" key="GridCell.Tab.0.center" timestamp="1581172019239">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1314" height="171" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1581172019239" />
+    <state width="1314" height="171" key="GridCell.Tab.0.left" timestamp="1581172019239">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1314" height="171" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1581172019239" />
+    <state width="1314" height="171" key="GridCell.Tab.0.right" timestamp="1581172019239">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1314" height="171" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1581172019239" />
+    <state x="94" y="0" width="1157" height="723" key="new project wizard" timestamp="1581172017004">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="94" y="0" width="1157" height="723" key="new project wizard/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1581172017004" />
+    <state x="341" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581167487708">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="341" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1024.768@0.0.1366.728" timestamp="1581167487708" />
+  </component>
+</project>

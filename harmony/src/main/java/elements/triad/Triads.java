@@ -27,8 +27,9 @@ public abstract class Triads implements NoteOfTriad {
         } else {
             triad = new MinorTriad(key);
         }
-        return triad;
+            return triad;
     }
+
 
     public void buildTriad() {
         Note primeOfTriad = findPrime(KeyNames.keyBoard, nameTriad);
